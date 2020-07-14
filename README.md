@@ -1,5 +1,5 @@
 . I'm Anderson Faro, a very passionate developer... I really love to program! 💕 <br/>
-. An eternal apprentice, and passionate about technology 💻
+. An eternal apprentice, and passionate by technology 💻
 
 🤓 I am currently a student at Rocketseat learning Full Stack:<b>TypeScript, Node.js, React Native and React</b>. <br/>
 
